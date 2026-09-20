@@ -6,3 +6,4 @@ NASIL KULLANILIR?(windows güvenliği kapatın!)
 -oradan key isteye basın(hata olabiliyor sürekli basın.)
 -key gelince keyi kopyalayıp powershelli tekrar açın ve kodu yapıştırın
 -sonra uygulamanın app idsini yazın ve sorun çözüldü.
+.
